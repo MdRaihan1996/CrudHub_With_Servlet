@@ -28,7 +28,10 @@ This project is a dynamic **CRUD (Create, Read, Update, Delete) web application*
    ```bash
    git clone https://github.com/MdRaihan1996/CrudHub_With_Servlet.git
    
-   ## ✍️ Author
+
+---   
+   
+## ✍️ Author
 
 **[Mohd Raihan Contact:- +919721176116]** *Feel free to reach out for collaboration or questions!*
 
